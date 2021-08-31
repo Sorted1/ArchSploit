@@ -1,0 +1,13 @@
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\bin\Debug\Archsploit.exe.config
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\bin\Debug\Archsploit.exe
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\bin\Debug\Archsploit.pdb
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\bin\Debug\FastColoredTextBox.dll
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\bin\Debug\WeAreDevs_API.dll
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.csproj.AssemblyReference.cache
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.Form1.resources
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.Properties.Resources.resources
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.csproj.GenerateResource.cache
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.csproj.CoreCompileInputs.cache
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.csproj.CopyComplete
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.exe
+C:\Users\ianjk\source\repos\Archsploit\Archsploit\obj\Debug\Archsploit.pdb
